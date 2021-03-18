@@ -58,7 +58,7 @@ To access the browser```localhost/gestaoEquipas/listaEquipas.php```.
 - If a player updated its account or played in a game, the captain will update it in the system as well (sum or subtract).  
 
 #### Add game score
-The captain can insert the score of a game.
+- The captain can insert the score of a game.
 
 #### Register player's fault
 - When a player commit a fault (not attending a game without asking for substitution) the captain can save that occurrence in record.
